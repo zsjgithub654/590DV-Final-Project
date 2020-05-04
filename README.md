@@ -1,4 +1,6 @@
 # 590DV-Final-Project
-The visualization is shown in a Jupyter notebook file.
+Three files are required for this visualization, a Jupyter notebook file and two csv files.
 
-Two datasets are needed for running the Jupyter notebook file, both zip file and csv format are provided, they should be placed in the same directory with the Jupyter notebook file.
+The visualization is shown in the Jupyter notebook file.
+
+Two datasets in csv format are needed for running the Jupyter notebook file, both zip file and csv file are provided, they should be placed in the same directory with the Jupyter notebook file.
